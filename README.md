@@ -13,9 +13,6 @@
 
 ---
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=ShyDevilBoy)]()
-![Contribution Snake](https://raw.githubusercontent.com/ShyDevilBoy/ShyDevilBoy/output/github-contribution-grid-snake.svg)
-
 ## 🛠️ 技术栈 & 技能
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" title="JavaScript">
