@@ -13,6 +13,8 @@
 
 ---
 
+<object type="image/svg+xml" data="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ShyDevilBoy&badges=2&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px"/>
+
 ## 🛠️ 技术栈 & 技能
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" title="JavaScript">
