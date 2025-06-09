@@ -1,18 +1,13 @@
 # 欢迎来到我的GitHub主页！ 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=我是一名软件开发者;Hello+World!;Full+Stack+Developer;Open+Source+Enthusiast" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=我是一名软件开发者;Hello+World!;Full+Stack+Developer;Open+Source+Enthusiast" />
 
 ---
 
 ## 🌟 个人主页
 
 ### 📊 活跃度分析
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=ShyDevilBoy&show_icons=true&theme=radical&hide_border=true&count_private=true" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShyDevilBoy&layout=compact&langs_count=8&card_width=320&theme=radical&hide_border=true" height="200"/>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=ShyDevilBoy&show_icons=true&theme=radical&hide_border=true&count_private=true" height="200"/>
 
 ---
 
