@@ -13,7 +13,8 @@
 
 ---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShyDevilBoy&theme=github&hide_border=true" alt="Activity Graph"/>
+[![Stats](https://github-readme-stats.vercel.app/api?username=ShyDevilBoy)]()
+![Contribution Snake](https://raw.githubusercontent.com/ShyDevilBoy/ShyDevilBoy/output/github-contribution-grid-snake.svg)
 
 ## 🛠️ 技术栈 & 技能
 <p align="center">
