@@ -12,9 +12,11 @@
 ---
 
 ### 🐍 贡献活动图
-<div align="center">
-  <img src="https://github-contribution-svg-phi.vercel.app/api/v1?user=ShyDevilBoy&type=snake" alt="Contribution Snake"/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ---
 
