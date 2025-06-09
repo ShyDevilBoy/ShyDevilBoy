@@ -9,7 +9,7 @@
 ## 🌟 个人主页
 
 ### 📊 活跃度分析
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=ShyDevilBoy&show_icons=true&theme=radical&hide_border=true&count_private=true" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShyDevilBoy&layout=compact&langs_count=8&card_width=320&theme=radical&hide_border=true" height="200"/>
 </div>
