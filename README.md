@@ -5,16 +5,15 @@
 </p>
 
 ## GitHub Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ShyDevilBoy" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShyDevilBoy&layout=compact&langs_count=8&card_width=320" />
 </a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShyDevilBoy&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShyDevilBoy&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Contribution Snake
 ![Contribution Snake](https://raw.githubusercontent.com/ShyDevilBoy/ShyDevilBoy/output/github-contribution-grid-snake.svg)
