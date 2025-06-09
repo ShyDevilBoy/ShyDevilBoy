@@ -13,7 +13,7 @@
 
 ---
 
-<object type="image/svg+xml" data="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ShyDevilBoy&badges=2&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShyDevilBoy&theme=github&hide_border=true" alt="Activity Graph"/>
 
 ## 🛠️ 技术栈 & 技能
 <p align="center">
