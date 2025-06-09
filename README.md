@@ -19,4 +19,5 @@
 ## Contribution Snake
 ![Contribution Snake](https://raw.githubusercontent.com/ShyDevilBoy/ShyDevilBoy/output/github-contribution-grid-snake.svg)
 
+## Visitor Count
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ShyDevilBoy.ShyDevilBoy)
