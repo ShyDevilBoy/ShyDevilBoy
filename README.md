@@ -17,4 +17,7 @@
 ---
 
 ## 🛠️ 技术栈 & 技能
-<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,py,html5,git,css3" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,py,git,vue,vite,mysql" />
+
+## 贡献活动
+![贡献蛇](https://ghchart.rshah.org/ShyDevilBoy)
