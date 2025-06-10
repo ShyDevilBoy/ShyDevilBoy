@@ -1,7 +1,7 @@
 <!-- 动态标题（打印机/打字机特效） -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=7F5AF0&width=435&lines=全职开发者;终身学习爱好者" alt="打字机特效">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=7F5AF0&width=435&lines=I am Tom" alt="打字机特效">
   </a>
 </div>
 
