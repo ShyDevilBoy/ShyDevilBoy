@@ -1,3 +1,28 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header)
+
+<!-- 动态标题（打字机效果） -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=7F5AF0&center=true&width=435&lines=全职开发者;终身学习爱好者;" alt="Typing SVG">
+  </a>
+</h1>
+
+<!-- GitHub统计卡片 -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShyDevilBoy&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShyDevilBoy&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- 波浪分隔线 -->
+<img src="https://raw.githubusercontent.com/YourUserName/YourUserName/assets/wave.svg" width="100%" height="150">
+
+### 🛠️ 技术栈
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+
+
 ## 👨‍💻 About Me
 
 I'm a passionate developer with expertise in building scalable web applications and solving complex problems. With a background in [Your Education/Background], I specialize in:
@@ -66,45 +91,3 @@ I'm a passionate developer with expertise in building scalable web applications 
   <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShyDevilBoy&theme=vue-dark" alt="Streak Stats" />
   <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShyDevilBoy&layout=compact&theme=vue-dark" alt="Top Languages" />
 </p>
-
----
-
-## 🌟 My Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" alt="Contribution Graph" />
-</p>
-
----
-
-## 📚 Blog Posts
-
-<!-- Replace with your actual blog links -->
-- [5 React Performance Tips You Should Know](https://yourblog.com/react-performance-tips)
-- [Demystifying GraphQL: A Practical Guide](https://yourblog.com/demystifying-graphql)
-- [Building a CI/CD Pipeline with GitHub Actions](https://yourblog.com/cicd-with-github-actions)
-
----
-
-## 🤝 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white"/>
-  </a>
-  <a href="https://dev.to/yourusername" target="_blank">
-    <img alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white"/>
-  </a>
-  <a href="https://hashnode.com/@yourusername" target="_blank">
-    <img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808d61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-</div>
