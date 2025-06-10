@@ -1,8 +1,6 @@
 <!-- 动态标题（打印机/打字机特效） -->
 <h1 align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=7F5AF0&width=435&lines=全职开发者;终身学习爱好者;技术开拓者" alt="打字机特效">
-  </a>
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=全职开发者;终身学习爱好者;技术开拓者)](https://git.io/typing-svg)
 </h1>
 
 ## 👨‍💻 About Me [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/ShyDevilBoy)
