@@ -1,5 +1,9 @@
 # 欢迎来到我的GitHub主页！ 👋
 
+<div style="text-align:center;">
+  <img src="https://github.com/username/repo/raw/main/header.gif" width="800" alt="动态头部"/>
+</div>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=我是一名软件开发者;Hello+World!;Full+Stack+Developer;Open+Source+Enthusiast" />
 </p>
