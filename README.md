@@ -109,15 +109,15 @@ I'm a passionate developer with expertise in building scalable web applications 
 ## 🚀 My Projects
 
 ### [Project 1](https://github.com/yourusername/project1) - Project Description
-![Stars](https://img.shields.io/github/stars/yourusername/project1?style=social) ![Last Commit](https://img.shields.io/github/last-commit/yourusername/project1)
+![Stars](https://img.shields.io/github/stars/yourusername/project1?style=social) ![Last Commit](https://img.shields.io/github/last-commit/ShyDevilBoy/project1)
 > Brief description about the project, what problems it solves, and what technologies it uses.
 
 ### [Project 2](https://github.com/yourusername/project2) - Project Description
-![Stars](https://img.shields.io/github/stars/yourusername/project2?style=social) ![Last Commit](https://img.shields.io/github/last-commit/yourusername/project2)
+![Stars](https://img.shields.io/github/stars/yourusername/project2?style=social) ![Last Commit](https://img.shields.io/github/last-commit/ShyDevilBoy/project2)
 > Brief description about the project, what problems it solves, and what technologies it uses.
 
 ### [Project 3](https://github.com/yourusername/project3) - Project Description
-![Stars](https://img.shields.io/github/stars/yourusername/project3?style=social) ![Last Commit](https://img.shields.io/github/last-commit/yourusername/project3)
+![Stars](https://img.shields.io/github/stars/yourusername/project3?style=social) ![Last Commit](https://img.shields.io/github/last-commit/ShyDevilBoy/project3)
 > Brief description about the project, what problems it solves, and what technologies it uses.
 
 ---
@@ -125,8 +125,8 @@ I'm a passionate developer with expertise in building scalable web applications 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=vue-dark&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=vue-dark" alt="Streak Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ShyDevilBoy&show_icons=true&theme=vue-dark&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShyDevilBoy&theme=vue-dark" alt="Streak Stats" />
 </p>
 
 <p align="center">
