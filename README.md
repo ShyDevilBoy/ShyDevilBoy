@@ -48,3 +48,5 @@
   <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShyDevilBoy&theme=vue-dark" alt="Streak Stats" />
   <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShyDevilBoy&layout=compact&theme=vue-dark" alt="Top Languages" />
 </p>
+
+<img src="https://raw.githubusercontent.com/ayangweb/ayangweb/master/assets/github-contribution-grid-snake-dark.svg" alt="" />
