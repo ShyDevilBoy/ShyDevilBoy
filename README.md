@@ -1,31 +1,25 @@
 # 欢迎来到我的GitHub主页！ 👋
 
-![Banner](https://via.placeholder.com/1600x400?text=Your+Banner) <!-- 替换为您的横幅链接 -->
+<!-- 文件名：README.md（置于同名仓库根目录） -->
+<h1 align="center"> 
+  Hi, I'm [Your Name] 👨‍💻
+</h1>
+<h3 align="center">Full-Stack Developer | Crafting Scalable Solutions</h3>
 
-# Hi there, I'm [Your Name] 👋
-- 🔭 Working on: 简要描述当前工作。
-- 🌱 Learning: 最近学习的技术。
-
-## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-<!-- 添加更多徽章 -->
-
-## 📂 Featured Projects
-| Project | Description | 
-|---------|-------------|
-| [Repo1](link) | 简洁的项目简介。 | 
-| [Repo2](link) | 另一个项目概要。 | 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
-
-<div style="text-align:center;">
-  <img src="https://github.com/username/repo/raw/main/header.gif" width="800" alt="动态头部"/>
+<div align="center">
+  <!-- 动态技术栈图标墙 -->
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,py,aws,docker,kubernetes,postgres" />
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=我是一名软件开发者;Hello+World!;Full+Stack+Developer;Open+Source+Enthusiast" />
-</p>
+<br/>
+
+<!-- 核心信息卡片布局 -->
+<div align="center">
+
+📌 ​**Currently**​  
+```diff
++ Senior Backend Engineer @TechCompany 
+! Building microservices architecture
 
 ---
 
