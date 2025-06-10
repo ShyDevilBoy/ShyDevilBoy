@@ -125,12 +125,9 @@ I'm a passionate developer with expertise in building scalable web applications 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ShyDevilBoy&show_icons=true&theme=vue-dark&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShyDevilBoy&theme=vue-dark" alt="Streak Stats" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=vue-dark" alt="Top Languages" />
+  <img width="33%" src="https://github-readme-stats.vercel.app/api?username=ShyDevilBoy&show_icons=true&theme=vue-dark&count_private=true" alt="GitHub Stats" />
+  <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?username=ShyDevilBoy&theme=vue-dark" alt="Streak Stats" />
+  <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShyDevilBoy&layout=compact&theme=vue-dark" alt="Top Languages" />
 </p>
 
 ---
