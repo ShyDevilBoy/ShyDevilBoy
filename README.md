@@ -11,15 +11,12 @@
   <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,py,aws,docker,kubernetes,postgres" />
 </div>
 
-<br/>
-
-<!-- 核心信息卡片布局 -->
-<div align="center">
-
-📌 ​**Currently**​  
-```diff
-+ Senior Backend Engineer @TechCompany 
-! Building microservices architecture
+<p align="center">
+  <!-- GitHub统计卡片 -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" alt="GitHub统计" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github_dark&hide_border=true&background=00000000" alt="连续贡献" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&langs_count=6" alt="常用语言" />
+</p>
 
 ---
 
@@ -31,6 +28,8 @@
 ---
 
 ## 🛠️ 技术栈 & 技能
+<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,py,html5,git,css3" />
+
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" title="JavaScript">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" title="Python">
