@@ -1,5 +1,5 @@
 <!-- 动态标题（打印机/打字机特效） -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=全职开发者;终身学习爱好者;Second+line+of+text)](https://git.io/typing-svg)
 
 ## 👨‍💻 About Me [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/ShyDevilBoy)
 一名热爱编码的全栈开发者，对技术充满热情并持续学习新技能。专注于构建高性能、用户友好的应用。
