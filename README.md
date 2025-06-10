@@ -5,35 +5,17 @@
   </a>
 </div>
 
-<!-- 个人简介 -->
-## 👋 关于我
+## 👨‍💻 About Me
 一名热爱编码的全栈开发者，对技术充满热情并持续学习新技能。专注于构建高性能、用户友好的应用。
 
 🔭 当前专注于：​**云原生应用开发**​  
 🌱 正在学习：​**Web3与区块链技术**​  
 💬 可交流方向：​**React生态、Node.js性能优化、数据库设计**​  
-📫 联系方式：​**example@email.com**​  
 😄 编程理念：*"构建优雅的解决方案，解决复杂的问题"*
 
 ---
 
-## 🔥 活跃度图
-
-[![活动图](https://activity-graph.herokuapp.com/graph?username=ShyDevilBoy&theme=github)](https://github.com/ShyDevilBoy)
-
-
-## 👨‍💻 About Me
-
-I'm a passionate developer with expertise in building scalable web applications and solving complex problems. With a background in [Your Education/Background], I specialize in:
-
-- ​**Frontend**: React, Vue, Svelte
-- ​**Backend**: Node.js, Python, Go
-- ​**DevOps**: Docker, Kubernetes, AWS
-- ​**Other**: [Your other skills]
-
-📫 How to reach me: ​**your.email@example.com**​
-
----
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/ShyDevilBoy)
 
 ## 🛠️ My Tech Stack
 
@@ -64,22 +46,6 @@ I'm a passionate developer with expertise in building scalable web applications 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
-
----
-
-## 🚀 My Projects
-
-### [Project 1](https://github.com/yourusername/project1) - Project Description
-![Stars](https://img.shields.io/github/stars/yourusername/project1?style=social) ![Last Commit](https://img.shields.io/github/last-commit/ShyDevilBoy/project1)
-> Brief description about the project, what problems it solves, and what technologies it uses.
-
-### [Project 2](https://github.com/yourusername/project2) - Project Description
-![Stars](https://img.shields.io/github/stars/yourusername/project2?style=social) ![Last Commit](https://img.shields.io/github/last-commit/ShyDevilBoy/project2)
-> Brief description about the project, what problems it solves, and what technologies it uses.
-
-### [Project 3](https://github.com/yourusername/project3) - Project Description
-![Stars](https://img.shields.io/github/stars/yourusername/project3?style=social) ![Last Commit](https://img.shields.io/github/last-commit/ShyDevilBoy/project3)
-> Brief description about the project, what problems it solves, and what technologies it uses.
 
 ---
 
