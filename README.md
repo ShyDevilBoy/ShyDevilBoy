@@ -1,11 +1,11 @@
 <!-- 动态标题（打印机/打字机特效） -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=7F5AF0&width=435&lines=I am Tom" alt="打字机特效">
+<h1 align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=7F5AF0&width=435&lines=全职开发者;终身学习爱好者;技术开拓者" alt="打字机特效">
   </a>
-</div>
+</h1>
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/ShyDevilBoy)
 一名热爱编码的全栈开发者，对技术充满热情并持续学习新技能。专注于构建高性能、用户友好的应用。
 
 🔭 当前专注于：​**云原生应用开发**​  
@@ -14,8 +14,6 @@
 😄 编程理念：*"构建优雅的解决方案，解决复杂的问题"*
 
 ---
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/ShyDevilBoy)
 
 ## 🛠️ My Tech Stack
 
