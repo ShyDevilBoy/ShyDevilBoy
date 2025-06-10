@@ -4,8 +4,6 @@
 ## 👨‍💻 About Me [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/ShyDevilBoy)
 一名热爱编码的全栈开发者，对技术充满热情并持续学习新技能。专注于构建高性能、用户友好的应用。
 
-🔭 当前专注于：​**云原生应用开发**​  
-🌱 正在学习：​**Web3与区块链技术**​  
 💬 可交流方向：​**React生态、Node.js性能优化、数据库设计**​  
 😄 编程理念：*"构建优雅的解决方案，解决复杂的问题"*
 
