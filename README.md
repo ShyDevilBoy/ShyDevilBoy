@@ -25,9 +25,9 @@
 
 ### 📈 GitHub 数据
 <!-- 使用 anuraghazra/github-readme-stats -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<你的用户名>&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShyDevilBoy&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=<你的用户名>&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=ShyDevilBoy&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
